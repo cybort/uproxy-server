@@ -1,31 +1,31 @@
 {
   "latestVersions": {
     "uproxy-manager-darwin-x64": {
-      "location": "https://raw.githubusercontent.com/uProxy/uProxy-server/master/release/uproxy-manager-darwin-x64.dmg",
+      "location": "https://uproxy.org",
       "version": "0.0.1"
     },
     "uproxy-manager-linux-armv7l": {
-      "location": "https://raw.githubusercontent.com/uProxy/uProxy-server/master/release/uproxy-manager-linux-armv7l.tar.gz",
+      "location": "https://uproxy.org",
       "version": "0.0.1"
     },
     "uproxy-manager-linux-ia32": {
-      "location": "https://raw.githubusercontent.com/uProxy/uProxy-server/master/release/uproxy-manager-linux-ia32.tar.gz",
+      "location": "https://uproxy.org",
       "version": "0.0.1"
     },
     "uproxy-manager-linux-x64": {
-      "location": "https://raw.githubusercontent.com/uProxy/uProxy-server/master/release/uproxy-manager-linux-x64.tar.gz",
+      "location": "https://uproxy.org",
       "version": "0.0.1"
     },
     "uproxy-manager-mas-x64": {
-      "location": "https://raw.githubusercontent.com/uProxy/uProxy-server/master/release/uproxy-manager-mas-x64.dmg",
+      "location": "https://uproxy.org",
       "version": "0.0.1"
     },
     "uproxy-manager-win32-ia32": {
-      "location": "https://raw.githubusercontent.com/uProxy/uProxy-server/master/release/uproxy-manager-win32-ia32.zip",
+      "location": "https://uproxy.org",
       "version": "0.0.1"
     },
     "uproxy-manager-win32-x64": {
-      "location": "https://raw.githubusercontent.com/uProxy/uProxy-server/master/release/uproxy-manager-win32-x64.zip",
+      "location": "https://uproxy.org",
       "version": "0.0.1"
     }
   }
