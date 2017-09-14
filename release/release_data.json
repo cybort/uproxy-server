@@ -1,0 +1,10 @@
+{
+  "latestVersions": {
+    "manager": {
+      "location": "https://github.com/uProxy/uproxy-cloud-install/releases/latest",
+      "version": "0.0.2",
+      "buildTimestamp": 1505162974505,
+      "md5": "46ba0d3b3a87789c7578b111da6e32c8"
+    }
+  }
+}
