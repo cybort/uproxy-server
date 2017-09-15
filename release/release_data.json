@@ -2,31 +2,31 @@
   "latestVersions": {
     "uproxy-manager-darwin-x64": {
       "location": "https://uproxy.org",
-      "version": "0.0.2"
+      "version": "0.0.1"
     },
     "uproxy-manager-linux-armv7l": {
       "location": "https://uproxy.org",
-      "version": "0.0.2"
+      "version": "0.0.1"
     },
     "uproxy-manager-linux-ia32": {
       "location": "https://uproxy.org",
-      "version": "0.0.2"
+      "version": "0.0.1"
     },
     "uproxy-manager-linux-x64": {
       "location": "https://uproxy.org",
-      "version": "0.0.2"
+      "version": "0.0.1"
     },
     "uproxy-manager-mas-x64": {
       "location": "https://uproxy.org",
-      "version": "0.0.2"
+      "version": "0.0.1"
     },
     "uproxy-manager-win32-ia32": {
       "location": "https://uproxy.org",
-      "version": "0.0.2"
+      "version": "0.0.1"
     },
     "uproxy-manager-win32-x64": {
       "location": "https://uproxy.org",
-      "version": "0.0.2"
+      "version": "0.0.1"
     }
   }
 }
