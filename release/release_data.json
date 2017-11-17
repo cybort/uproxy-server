@@ -2,7 +2,7 @@
   "latestVersions": {
     "uproxy-manager-darwin-x64": {
       "location": "https://uproxy.org",
-      "version": "0.0.1"
+      "version": "0.0.2"
     },
     "uproxy-manager-linux-armv7l": {
       "location": "https://uproxy.org",
